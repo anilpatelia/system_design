@@ -27,3 +27,5 @@ http://introtodeeplearning.com/
 
 https://stanford-cs329s.github.io/syllabus.html?s=03
 
+
+http://introtodeeplearning.com/
