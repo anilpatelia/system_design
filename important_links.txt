@@ -16,3 +16,5 @@ https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
 
 https://developers.google.com/machine-learning/guides/rules-of-ml
 
+
+https://mlengineer.io/
