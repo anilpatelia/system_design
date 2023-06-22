@@ -33,3 +33,5 @@ http://introtodeeplearning.com/
 https://github.com/MysteryVaibhav/leetcode_company_wise_questions/
 
 https://github.com/KreakEmp/InterviewPrep/tree/main
+
+https://leetcode.com/discuss/interview-question/3669608/top-60-dbms-interview-questions-basic-to-high-level-questions-must-read
